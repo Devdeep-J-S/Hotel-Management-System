@@ -13,6 +13,7 @@ Team size : 5 <br>
 Concepts used in this project : <br>
 Concurrent Programming: Semaphore, Threading<br>
 Process management: creating a child process and using it to execute another code <br>
+File I/O <br> 
 IPC - Signals <br>
 Shell script <br>
 Makefile <br>
