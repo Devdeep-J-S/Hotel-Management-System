@@ -1,0 +1,75 @@
+--->	 Message from [chef()]: chef with id 	[0]	 created successfully.
+--->	 Message from [chef()]: chef with id 	[1]	 created successfully.
+--->	 Message from [chef()]: chef with id 	[2]	 created successfully.
+--->	 Message from [cashier()]: waiter with id 	[0]	 created successfully.
+--->	 Message from [cashier()]: waiter with id 	[1]	 created successfully.
+--->	 Message from [customer_run()]: customer with id 	[0]	 arrived.
+--->	 Message from [customer_run()]: customer with id 	[1]	 arrived.
+--->	 Message from [customer_run()]: customer with id 	[2]	 arrived.
+--->	 Message from [assure_state()]:	 State consistent.
+--->	 Message from [assure_state()]:	 State consistent.
+--->	 Message from [chef()]: chef with id 	[1]	 placed a new pizza in the tray.
+--->	 Message from [cashier()]: waiter with id 	[0]	 is currently serving customer .
+--->	 Message from [customer_run()]: customer with id 	[2]	 approached waiter no. 	[0]	.
+--->	 Message from [customer_run()]: customer with id	[2]	 is placing order to waiter having id 	[0]	.
+--->	 Message from [assure_state()]:	 State consistent.
+--->	 Message from [assure_state()]:	 State consistent.
+--->	 Message from [chef()]: chef with id 	[1]	 placed a new pizza in the tray.
+--->	 Message from [assure_state()]:	 State consistent.
+--->	 Message from [assure_state()]:	 State consistent.
+--->	 Message from [chef()]: chef with id 	[2]	 placed a new pizza in the tray.
+--->	 Message from [cashier()]: waiter with id 	[0]	 has recieved the order.
+--->	 Message from [cashier()]: waiter with id 	[0]	 is going to tray to get the pizza...
+--->	 Message from [cashier()]: waiter with id 	[1]	 is currently serving customer .
+--->	 Message from [customer_run()]: customer with id 	[0]	 approached waiter no. 	[1]	.
+--->	 Message from [customer_run()]: customer with id	[0]	 is placing order to waiter having id 	[1]	.
+--->	 Message from [assure_state()]:	 State consistent.
+--->	 Message from [assure_state()]:	 State consistent.
+--->	 Message from [chef()]: chef with id 	[0]	 placed a new pizza in the tray.
+--->	 Message from [assure_state()]:	 State consistent.
+--->	 Message from [assure_state()]:	 State consistent.
+--->	 Message from [cashier()]: waiter with id 	[0]	 has picked up pizza from the tray, on way to serve...
+--->	 Message from [assure_state()]:	 State consistent.
+--->	 Message from [assure_state()]:	 State consistent.
+--->	 Message from [chef()]: chef with id 	[1]	 placed a new pizza in the tray.
+--->	 Message from [cashier()]: waiter with id 	[0]	 served pizza to customer.
+--->	 Message from [cashier()]: waiter with id 	[0]	 is currently serving customer .
+--->	 Message from [customer_run()]: customer with id 	[1]	 approached waiter no. 	[0]	.
+--->	 Message from [customer_run()]: customer with id	[1]	 is placing order to waiter having id 	[0]	.
+--->	 Message from [customer_run()]: customer with id 	[2]	 got pizza from waiter no. 	[0]	. Thank you!
+--->	 Message from [customer_run()]: customer with id 	[2]	 has completed his work...
+--->	 Message from [cashier()]: waiter with id 	[0]	 has recieved the order.
+--->	 Message from [cashier()]: waiter with id 	[0]	 is going to tray to get the pizza...
+--->	 Message from [cashier()]: waiter with id 	[1]	 has recieved the order.
+--->	 Message from [cashier()]: waiter with id 	[1]	 is going to tray to get the pizza...
+--->	 Message from [assure_state()]:	 State consistent.
+--->	 Message from [assure_state()]:	 State consistent.
+--->	 Message from [cashier()]: waiter with id 	[0]	 has picked up pizza from the tray, on way to serve...
+--->	 Message from [assure_state()]:	 State consistent.
+--->	 Message from [assure_state()]:	 State consistent.
+--->	 Message from [chef()]: chef with id 	[2]	 placed a new pizza in the tray.
+--->	 Message from [assure_state()]:	 State consistent.
+--->	 Message from [assure_state()]:	 State consistent.
+--->	 Message from [cashier()]: waiter with id 	[1]	 has picked up pizza from the tray, on way to serve...
+--->	 Message from [cashier()]: waiter with id 	[0]	 served pizza to customer.
+--->	 Message from [customer_run()]: customer with id 	[1]	 got pizza from waiter no. 	[0]	. Thank you!
+--->	 Message from [customer_run()]: customer with id 	[1]	 has completed his work...
+--->	 Message from [cashier()]: waiter with id 	[1]	 served pizza to customer.
+--->	 Message from [assure_state()]:	 State consistent.
+--->	 Message from [customer_run()]: customer with id 	[0]	 got pizza from waiter no. 	[1]	. Thank you!
+--->	 Message from [customer_run()]: customer with id 	[0]	 has completed his work...
+--->	 Message from [assure_state()]:	 State consistent.
+--->	 Message from [chef()]: chef with id 	[0]	 placed a new pizza in the tray.
+--->	 Message from [main()]:	 All customers terminated SUCCESSFULLY
+
+----------------
+
+--->	 Message from [main()]:		 SUCCESS: Starting Cleanup
+--->	 Message from [chef()]: chef with id 	[1]	 has completed his work...
+--->	 Message from [chef()]: chef with id 	[0]	 has completed his work...
+--->	 Message from [main()]:	 SUCCESS: Told all threads to terminate themselves
+--->	 Message from [cashier()]: waiter with id 	[1]	 completed his job.
+--->	 Message from [chef()]: chef with id 	[2]	 has completed his work...
+--->	 Message from [cashier()]: waiter with id 	[0]	 completed his job.
+--->	 Message from [assure_state()]:	 State consistent.
+--->	 Message from [main()]:	 SUCCESS: All threads terminated, state consistent.
