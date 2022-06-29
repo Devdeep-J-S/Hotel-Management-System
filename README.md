@@ -5,5 +5,16 @@ We have developed a code to handle the production and distribution of a product.
 To view project : <br> 
 Download hotel_management folder.<br> 
 Go to hotel_management/src and run "myscript", We have made this shell script so that you don't have to worry about how to run this code.
-Just run the .sh file and it's done : ) 
+Just run the .sh file and it's done : ) <br>
+
+Guide :  Prof. Amit Mankodi <br>
+Team size : 5 <br>
+
+Concepts used in this project : <br>
+Concurrent Programming: Semaphore, Threading<br>
+Process management: creating a child process and using it to execute another code
+IPC - Signals 
+Shell script 
+Makefile 
+
 
