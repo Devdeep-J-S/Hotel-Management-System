@@ -5,4 +5,4 @@ In this project we have applied it to manage a hotel.  Here the chef, waiter, cu
 To view proejct : 
 Download hotel_management folder.
 Go to hotel_management/src and run "myscript", We have made this shell script so that you don't have to  worry about how to run this code.
-Just run the .sh file and its done :)
+Just run the .sh file and its done : )
