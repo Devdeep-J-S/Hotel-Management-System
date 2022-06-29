@@ -3,13 +3,13 @@ We have developed a code to handle the production and distribution of a product.
 
 <br> 
 To view project : <br> 
-Download hotel_management folder.<br> 
-Go to hotel_management/src and run "myscript", We have made this shell script so that you don't have to worry about how to run this code.
+1. Download hotel_management folder.<br> 
+2. Go to hotel_management/src and run "myscript", We have made this shell script so that you don't have to worry about how to run this code.
 Just run the .sh file and it's done : ) <br>
-
+<br>
 Guide :  Prof. Amit Mankodi <br>
 Team size : 5 <br>
-
+<br>
 Concepts used in this project : <br>
 Concurrent Programming: Semaphore, Threading<br>
 Process management: creating a child process and using it to execute another code
